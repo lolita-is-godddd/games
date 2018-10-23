@@ -79,7 +79,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
 * [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
 * [Google Solitaire](https://www.google.com/logos/fnbx/solitaire/standalone.html) - Solitaire by Google, in HTML5/CSS/JS.
-
+* [Minesweeper](https://github.com/APCSLowell/Minesweeper) - Clasic style one. [Play it now!](http://minesweeperonline.com)
 ## Arcade
 
 * [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
